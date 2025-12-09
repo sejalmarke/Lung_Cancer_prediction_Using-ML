@@ -58,3 +58,7 @@ Out of all the algorithms so implemented, **Logistic Regression** performed the 
 **Confusion Matrix:**
 
 ![download](https://github.com/rohitinu6/Lung_Cancer_Prediction_Using_Machine_Learning/assets/113301503/b1e82b1c-2487-486a-b476-d34786148d40)
+👩‍💻 Author
+Sejal Marke
+IT Engineering Graduate | Aspiring Data Analyst
+Skills: Python, SQL, Basic Machine Learning, Power BI.
